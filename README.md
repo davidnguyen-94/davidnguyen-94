@@ -36,13 +36,13 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>7.6 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.5 kph</td>
+        <td>9 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>7.6 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.5 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-    Updated at: 2023-11-11T20:14:56Z - by <a target="_blank"
+    Updated at: 2023-11-11T20:22:57Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
