@@ -13,7 +13,7 @@ I'm a full stack developer...
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 10/12/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" /> Patchy rain possible)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 10/12/2023 (<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" /> Sunny)</b>
     </summary>
 
     
@@ -36,13 +36,13 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>9 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>10.1 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>11.9 kph</td>
+        <td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>10.1 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-    Updated at: 2023-12-09T23:08:58Z - by <a target="_blank"
+    Updated at: 2023-12-09T23:20:08Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
