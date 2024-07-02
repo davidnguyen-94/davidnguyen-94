@@ -32,7 +32,7 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.8 °C</td><td>27.9 °C</td><td>29.5 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>34.1 °C</td><td>35.5 °C</td><td>36.3 °C</td><td>34 °C</td><td>35.9 °C</td><td>33.9 °C</td><td>32.4 °C</td><td>31.8 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>29 °C</td><td>25.2 °C</td><td>23.5 °C</td>
+        <td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.8 °C</td><td>27.9 °C</td><td>29.5 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>34.1 °C</td><td>35.5 °C</td><td>36.3 °C</td><td>34.2 °C</td><td>35.9 °C</td><td>33.9 °C</td><td>32.4 °C</td><td>31.8 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>29 °C</td><td>25.2 °C</td><td>23.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -43,6 +43,6 @@ I'm a full stack developer...
 </details>
 
 <div align="right">
-    Updated at: 2024-07-02T07:24:19Z - by <a target="_blank"
+    Updated at: 2024-07-02T07:31:08Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
