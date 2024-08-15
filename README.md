@@ -28,7 +28,7 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Light rain shower</td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Light rain shower</td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -36,13 +36,13 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>9 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>8.6 kph</td>
+        <td>8.3 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-    Updated at: 2024-08-15T01:12:12Z - by <a target="_blank"
+    Updated at: 2024-08-15T02:05:49Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
