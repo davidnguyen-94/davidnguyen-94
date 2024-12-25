@@ -13,7 +13,7 @@ I'm a full stack developer...
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 25/12/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" /> Overcast )</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 25/12/2024 (<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" /> Cloudy )</b>
     </summary>
 
     
@@ -43,6 +43,6 @@ I'm a full stack developer...
 </details>
 
 <div align="right">
-    Updated at: 2024-12-25T05:46:15Z - by <a target="_blank"
+    Updated at: 2024-12-25T05:52:51Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
