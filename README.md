@@ -13,7 +13,7 @@ I'm a full stack developer...
 
 
 <details>
-    <summary><b>Ho Chi Minh City, Vietnam - 01/01/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" /> Patchy rain nearby)</b>
+    <summary><b>Ho Chi Minh City, Vietnam - 01/01/2025 (<img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" /> Overcast )</b>
     </summary>
 
     
@@ -32,7 +32,7 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.6 °C</td><td>26.2 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.3 °C</td><td>24.7 °C</td><td>24.9 °C</td><td>25.2 °C</td><td>25.6 °C</td><td>26 °C</td><td>26.8 °C</td><td>27.5 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>26.8 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.3 °C</td><td>24.9 °C</td>
+        <td>24.6 °C</td><td>26 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24.3 °C</td><td>24.7 °C</td><td>24.9 °C</td><td>25.2 °C</td><td>25.6 °C</td><td>26 °C</td><td>26.8 °C</td><td>27.5 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>26.8 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.3 °C</td><td>24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -43,6 +43,6 @@ I'm a full stack developer...
 </details>
 
 <div align="right">
-    Updated at: 2024-12-31T17:26:23Z - by <a target="_blank"
+    Updated at: 2024-12-31T17:34:29Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
