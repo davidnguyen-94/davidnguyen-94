@@ -32,17 +32,17 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>25.8 °C</td><td>26.5 °C</td><td>27.7 °C</td><td>29.7 °C</td><td>31 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.7 °C</td><td>30.3 °C</td><td>30 °C</td><td>28.8 °C</td><td>27.2 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>26.1 °C</td>
+        <td>25.4 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>25.8 °C</td><td>26.5 °C</td><td>27.7 °C</td><td>29.7 °C</td><td>31 °C</td><td>31 °C</td><td>30.9 °C</td><td>30.7 °C</td><td>30.3 °C</td><td>30 °C</td><td>28.8 °C</td><td>27.2 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>11.9 kph</td><td>14.8 kph</td><td>16.9 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>14 kph</td><td>13.7 kph</td><td>14 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>11.9 kph</td>
+        <td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>11.9 kph</td><td>14.8 kph</td><td>16.9 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>14 kph</td><td>13.7 kph</td><td>14 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 </details>
 
 <div align="right">
-    Updated at: 2025-09-01T16:46:57Z - by <a target="_blank"
+    Updated at: 2025-09-01T16:53:52Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
