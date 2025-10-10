@@ -28,11 +28,11 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light drizzle</td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light drizzle</td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>25.4 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>31.7 °C</td><td>32.6 °C</td><td>33.1 °C</td><td>32.8 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>28.5 °C</td><td>27.2 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>27.3 °C</td>
+        <td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.2 °C</td><td>25.4 °C</td><td>27.1 °C</td><td>28.9 °C</td><td>30.4 °C</td><td>31.7 °C</td><td>32.6 °C</td><td>33.1 °C</td><td>32.8 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>28.5 °C</td><td>27.2 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>28.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -43,6 +43,6 @@ I'm a full stack developer...
 </details>
 
 <div align="right">
-    Updated at: 2025-10-10T16:12:10Z - by <a target="_blank"
+    Updated at: 2025-10-10T16:35:43Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
