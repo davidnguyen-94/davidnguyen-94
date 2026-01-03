@@ -28,11 +28,11 @@ I'm a full stack developer...
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.2 °C</td><td>22.9 °C</td><td>22.6 °C</td><td>22 °C</td><td>21.3 °C</td><td>20.7 °C</td><td>20.2 °C</td><td>20.6 °C</td><td>22.5 °C</td><td>24.6 °C</td><td>26.7 °C</td><td>28.5 °C</td><td>29.7 °C</td><td>30.4 °C</td><td>30.5 °C</td><td>30 °C</td><td>28.6 °C</td><td>27 °C</td><td>25.5 °C</td><td>24.2 °C</td><td>23.4 °C</td><td>23.1 °C</td><td>25.3 °C</td><td>22.9 °C</td>
+        <td>23.2 °C</td><td>22.9 °C</td><td>22.6 °C</td><td>22 °C</td><td>21.3 °C</td><td>20.7 °C</td><td>20.2 °C</td><td>20.6 °C</td><td>22.5 °C</td><td>24.6 °C</td><td>26.7 °C</td><td>28.5 °C</td><td>29.7 °C</td><td>30.4 °C</td><td>30.5 °C</td><td>30 °C</td><td>28.6 °C</td><td>27 °C</td><td>25.5 °C</td><td>24.2 °C</td><td>23.4 °C</td><td>23.1 °C</td><td>23 °C</td><td>25 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -43,6 +43,6 @@ I'm a full stack developer...
 </details>
 
 <div align="right">
-    Updated at: 2026-01-03T15:56:25Z - by <a target="_blank"
+    Updated at: 2026-01-03T16:16:00Z - by <a target="_blank"
         href="https://github.com/ePlus-DEV/weather-forecast">ePlus-DEV/weather-forecast</a>
 </div>
